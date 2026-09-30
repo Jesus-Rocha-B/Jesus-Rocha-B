@@ -9,13 +9,13 @@
   </a>
 </p>
 
-## <img src="https://skillicons.dev/icons?i=github&perline=1" height="24" alt="" /> Sobre mí
+## Sobre mí
 
 Estudiante de **Diseño y Desarrollo de Software en Tecsup**, interesado en el desarrollo de aplicaciones web, la ingeniería de software y las tecnologías de código abierto.
 
 Me gusta aprender nuevas tecnologías, resolver problemas mediante la programación y desarrollar proyectos que combinen funcionalidad, innovación y buenas prácticas de desarrollo.
 
-## <img src="https://skillicons.dev/icons?i=python&perline=1" height="24" alt="" /> Tecnologías y herramientas
+## Tecnologías y herramientas
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -28,35 +28,39 @@ Me gusta aprender nuevas tecnologías, resolver problemas mediante la programaci
 - **Bases de datos:** MySQL y SQLite.
 - **Herramientas:** Git, GitHub y Linux.
 
-## <img src="https://skillicons.dev/icons?i=html&perline=1" height="24" alt="" /> Áreas de interés
+## Áreas de interés
 
 - Desarrollo full stack.
 - Desarrollo web.
 - Automatización.
 - Inteligencia artificial aplicada al desarrollo de software.
 
-## <img src="https://skillicons.dev/icons?i=vscode&perline=1" height="24" alt="" /> Actualmente
+## Actualmente
 
 - Fortaleciendo mis conocimientos en desarrollo de software.
 - Trabajando en proyectos académicos y personales.
 - Mejorando mis habilidades en arquitectura de software, bases de datos y desarrollo backend.
 - Explorando nuevas tecnologías y buenas prácticas de programación.
 
-## <img src="https://skillicons.dev/icons?i=github&perline=1" height="24" alt="" /> Objetivos
+## Objetivos
 
 Seguir creciendo como desarrollador, adquirir experiencia en proyectos reales, contribuir a proyectos de código abierto y construir soluciones tecnológicas que aporten valor.
 
-## <img src="https://skillicons.dev/icons?i=github&perline=1" height="24" alt="" /> Algunos proyectos
+## Algunos proyectos
 
-### [AxisLab](https://github.com/fabian-raam/AxisLab)
+<p align="center">
+  <a href="https://github.com/fabian-raam/AxisLab">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=fabian-raam&repo=AxisLab&theme=dark" alt="AxisLab: tienda virtual de diseños 3D" />
+  </a>
+  <a href="https://github.com/Jesus-Rocha-B/Rupi">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Jesus-Rocha-B&repo=Rupi&theme=dark" alt="Rupi: plataforma educativa" />
+  </a>
+</p>
 
-Aplicación web de una tienda virtual dedicada a la venta de diseños 3D.
-
-### [Rupi](https://github.com/Jesus-Rocha-B/Rupi)
-
-Plataforma educativa en desarrollo para estudiantes de primaria en Perú, con actividades interactivas, recorridos gamificados y acompañamiento mediante inteligencia artificial.
-
-## <img src="https://skillicons.dev/icons?i=gmail&perline=1" height="24" alt="" /> Conecta conmigo
+## Conecta conmigo
 
 - **GitHub:** [@Jesus-Rocha-B](https://github.com/Jesus-Rocha-B)
 - **Correo:** [enriquerocha2345@gmail.com](mailto:enriquerocha2345@gmail.com)
+
+
+
