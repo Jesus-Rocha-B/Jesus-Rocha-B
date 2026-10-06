@@ -8,11 +8,11 @@ Estudiante de **Diseño y Desarrollo de Software en Tecsup**, interesado en el d
 
 ## Tecnologías y herramientas
 
-<p align="left"><img src="https://skillicons.dev/icons?i=python,php,java,js,kotlin,html,css,laravel,django,spring,mysql,sqlite,git,github,linux&perline=15" alt="Python, PHP, Java, JavaScript, Kotlin, HTML, CSS, Laravel, Django, Spring, MySQL, SQLite, Git, GitHub y Linux" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=python,php,java,js,kotlin,html,css,laravel,django,spring,mysql,sqlite,mongodb,git,github,linux&perline=15" alt="Python, PHP, Java, JavaScript, Kotlin, HTML, CSS, Laravel, Django, Spring, MySQL, SQLite, MongoDB, Git, GitHub y Linux" /></p>
 
 - **Lenguajes:** Python, PHP, Java, JavaScript, Kotlin, HTML y CSS
 - **Frameworks:** Laravel, Django y Spring Boot
-- **Bases de datos:** MySQL y SQLite
+- **Bases de datos:** MySQL, SQLite y MongoDB
 - **Herramientas:** Git, GitHub y Linux
 
 ## Áreas de interés
